@@ -1,3 +1,3 @@
 # WebAppDemo
 
-Sample Repo for ASP.Net Web Application (.Net Framework)
+Sample Repo for ASP.Net Web Application Lab (.Net Framework)
